@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/gi0w6aa3j0nb/public_html/
-    - /dtpregnancy.wpengine.com/index.html $DEPLOYPATH
+    - /bin/cp * $DEPLOYPATH
