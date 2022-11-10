@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 19 Oct 2022 18:21:05 at https://dtpregnancy.wpengine.com/side-navigation/prenatal-care-tests/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://dtpregnancy.wpengine.com/side-navigation/prenatal-care-tests/ -O1 "D:\WORK\DESIGNING-WORLD4\WEBSITE-WORK\GYNAEC\AASTHA-WC\PrenatalCareTest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:21:07	Warning: 	Note: due to https://dtpregnancy.wpengine.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+18:21:10	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://dtpregnancy.wpengine.com/side-navigation/prenatal-care-tests/)
+18:21:11	Error: 	"Not Found" (404) at link explorercanvas.googlecode.com/ (from https://dtpregnancy.wpengine.com/side-navigation/prenatal-care-tests/)
+18:21:11	Warning: 	Moved Permanently for code.jquery.com/
+18:21:11	Warning: 	File has moved from code.jquery.com/ to https://releases.jquery.com/
+18:21:12	Warning: 	Moved Permanently for s.w.org/robots.txt
+18:21:12	Warning: 	File has moved from s.w.org/robots.txt to https://wordpress.org/
+18:21:12	Warning: 	Link s.w.org/ not scanned (follow robots meta tag)
+18:21:18	Error: 	"Not Found" (404) at link maxcdn.bootstrapcdn.com/'https://www.bootstrapcdn.com/' (from maxcdn.bootstrapcdn.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 41 links scanned, 29 files written (1179494 bytes overall) [673105 bytes received at 51777 bytes/sec], 979387 bytes transferred using HTTP compression in 19 files, ratio 45%, 2.0 requests per connection
+(3 errors, 6 warnings, 0 messages)
