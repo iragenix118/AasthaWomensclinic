@@ -761,13 +761,14 @@
         width: 58.33333333%
     }
     .vc_col-sm-6 {
-        width: 50%
+        width: 755px;
     }
     .vc_col-sm-5 {
         width: 41.66666667%
     }
     .vc_col-sm-4 {
-        width: 506px;
+        width: 512px;
+        height: 329px;
     }
     .vc_col-sm-3 {
         width: 25%

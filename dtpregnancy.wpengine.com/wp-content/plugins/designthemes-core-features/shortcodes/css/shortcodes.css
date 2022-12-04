@@ -3308,7 +3308,7 @@ video {
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     /* Safari */
-    ::i-block-chrome,
+     ::i-block-chrome,
     .dt-sc-icon-box.type9 .icon-content {
         width: 54.2%;
     }
@@ -7159,7 +7159,7 @@ video {
     .dt-sc-sociable.hexagon-border li:after {
         bottom: -14.0660px;
     }
-    ::i-block-chrome,
+     ::i-block-chrome,
     .dt-sc-sociable.hexagon-with-border li:after,
     .dt-sc-sociable.hexagon-border li:after {
         bottom: -15.0660px;
@@ -7284,7 +7284,7 @@ video {
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     /* Safari */
-    ::i-block-chrome,
+     ::i-block-chrome,
     .dt-sc-contact-info.type3:before {
         width: 92%;
         height: 95%;
@@ -13215,7 +13215,7 @@ only screen and (min-resolution: 1.5dppx) {
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
-    ::i-block-chrome,
+     ::i-block-chrome,
     .dt-sc-colored-icon-box:hover>img {
         -webkit-transform: scale(1);
         -moz-transform: scale(1);
