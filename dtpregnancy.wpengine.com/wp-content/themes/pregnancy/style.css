@@ -1078,9 +1078,9 @@ embed,
 iframe,
 object,
 video {
-    margin-left: -32px;
+    margin-left: -15px;
     max-width: 100%;
-    margin-bottom: 163px;
+    margin-bottom: 30px;
 }
 
 .column.no-space {
@@ -14225,8 +14225,8 @@ div.pp_overlay {
     position: absolute;
     bottom: 0px;
     left: 0;
-    margin: 0px auto 85px -98px;
-    width: 320px;
+    margin: 0px 0px 84px -5px;
+    width: 300px;
     text-align: left;
     padding: 45px 26px 36px;
     background-color: #FFF;

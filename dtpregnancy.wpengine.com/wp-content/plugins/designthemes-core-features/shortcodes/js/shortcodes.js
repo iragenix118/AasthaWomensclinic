@@ -201,28 +201,28 @@ jQuery(document).ready(function($) {
 
 	$(window).on('load',function(){
 		/* testimonial carousel */
-		if($(".carousel_items").length) {
-			$(".carousel_items .dt-sc-testimonial-carousel").each(function(){
+		// if($(".carousel_items").length) {
+		// 	$(".carousel_items .dt-sc-testimonial-carousel").each(function(){
 	
-			  var $prev = $(this).parents(".carousel_items").find(".testimonial-prev");
-			  var $next = $(this).parents(".carousel_items").find(".testimonial-next");
+		// 	  var $prev = $(this).parents(".carousel_items").find(".testimonial-prev");
+		// 	  var $next = $(this).parents(".carousel_items").find(".testimonial-next");
 	
-			  $(this).carouFredSel({
-				responsive: true,
-				auto: true,
-				width: '100%',
-				prev: $prev,
-				next: $next,
-				height: 'variable',
-				scroll: { easing: "linear", duration: 500, fx: "fade" },
-				items: { width: 1170, height: 'variable',  visible: { min: 1, max: 1 } },
-				swipe:{
-					  onTouch: true,
-					  onMouse: true
-				},
-			  });
-			});
-		}
+		// 	  $(this).carouFredSel({
+		// 		responsive: true,
+		// 		auto: true,
+		// 		width: '100%',
+		// 		prev: $prev,
+		// 		next: $next,
+		// 		height: 'variable',
+		// 		scroll: { easing: "linear", duration: 500, fx: "fade" },
+		// 		items: { width: 1170, height: 'variable',  visible: { min: 1, max: 1 } },
+		// 		swipe:{
+		// 			  onTouch: true,
+		// 			  onMouse: true
+		// 		},
+		// 	  });
+		// 	});
+		// }
 		
 		/* team carousel */
 		if($(".team_carousel_items").length) {

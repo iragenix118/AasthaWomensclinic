@@ -5463,7 +5463,7 @@ ul.wpb_thumbnails-fluid>li {
 
 .vc_column_container>.vc_column-inner {
     box-sizing: border-box;
-    padding-left: 50px;
+    padding-left: 32px;
     padding-right: 15px;
     width: 100%;
 }

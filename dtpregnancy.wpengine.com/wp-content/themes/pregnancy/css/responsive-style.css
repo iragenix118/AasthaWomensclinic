@@ -1551,7 +1551,7 @@
 		.dt-sc-icon-box.type5 { padding-left: 95px; }
 		.dt-sc-icon-box.type5.alignright { padding-right: 95px; }
 		
-		.dt-sc-icon-box.type5.rounded { padding-left: 110px; }
+		.dt-sc-icon-box.type5.rounded { padding-left: 0px; }
 		.dt-sc-icon-box.type5.rounded.alignright { padding-left: 0; padding-right: 110px; }		
 		
 		.dt-sc-icon-box.type6 .icon-wrapper { height: 75px; margin-right: 10px; width: 75px; }

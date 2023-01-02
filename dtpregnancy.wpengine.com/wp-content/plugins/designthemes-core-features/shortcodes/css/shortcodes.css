@@ -2987,11 +2987,12 @@ video {
 }
 
 .dt-sc-icon-box.type5 .icon-wrapper {
-    position: absolute;
+    position: unset;
     left: 0px;
     top: 0px;
     width: 70px;
     text-align: center;
+    margin-left: 80px;
 }
 
 .dt-sc-icon-box.type5 .icon-wrapper:before {
@@ -12894,16 +12895,19 @@ only screen and (min-resolution: 1.5dppx) {
 }
 
 .dt-sc-title.with-desc h3 {
-    font-size: 18px;
+    font-size: 20px;
     letter-spacing: 0px;
     margin: 20px auto 20px;
     color: #323232;
-    width: 65%;
+    width: 77%;
     font-weight: 300;
     text-align: center;
     display: block;
-    margin: 13px auto 0px;
-    line-height: 30px;
+    /* margin: 0px 0px 0px; */
+    /* margin-right: 0px; */
+    /* padding-right: 0px; */
+    margin-left: 34px;
+    line-height: 31px;
 }
 
 .skin-highlight .dt-sc-title.with-desc span:before,
